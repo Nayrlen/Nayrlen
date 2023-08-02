@@ -1,4 +1,4 @@
-![You banner here!](/assets/banner-readme-templates.png) 
+![You banner here!](imagens/banner-readme-templates.jpg) 
 
 [comment]: <> (i create my banner in Canva editor for free.)
 
