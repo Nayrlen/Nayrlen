@@ -29,7 +29,7 @@
 <br>
 <br/>
 
-## 👨‍🎨 Explore some of my repositories, have fun
+## 👨‍🎨 Explore alguns dos meus repositórios, divirta-se!
 
 [comment]: <> (Here i use the vercel api, change the references in the url bellow)
 
