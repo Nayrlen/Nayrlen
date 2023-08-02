@@ -6,7 +6,7 @@
 
 ## Oá, mundo ! Eu sou [Nayrlen Alves](https://github.com/Nayrlen) 👋
 
-### You titles | You titles | You titles 
+### Desenvolvedora Web | Entusiasta de Tecnologia | Marvete nas horas vagas 
 
 - 🧐 I’m currently working on [you work](https://brunomarcosluz.github.io./)
 - 🌱 I’m currently specializing in 'Your Area'.
