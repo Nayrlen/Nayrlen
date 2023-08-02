@@ -2,7 +2,7 @@
 
 [comment]: <> (i create my banner in Canva editor for free.)
 
-> "Some quote do you like" - Author
+> "A própria luta para chegar ao cume basta para encher o coração de um homen" - Albert Camus
 
 ## Hello World ! I am [Your name](https://brunomarcosluz.github.io./) 👋
 
