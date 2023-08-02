@@ -38,6 +38,6 @@
 </a>
 
 <a href="https://nayrlen.github.io/projeto-login/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=flutter-master-dev&title_color=08fc28&text_color=08fc28&icon_color=08fc28&bg_color=000000"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nayrlen&repo=projeto-login&title_color=08fc28&text_color=08fc28&icon_color=08fc28&bg_color=000000"/>
 </a>
  
