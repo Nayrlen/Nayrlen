@@ -8,10 +8,10 @@
 
 ### Desenvolvedora Web | Entusiasta de Tecnologia | Marvete nas horas vagas 
 
-- 🧐 Estou "Open to work"
+- 🧐 Estou "Open to work".
 - 🌱 Estou me especializando em 'Desenvolvimento Web Fullstack'.
 - 💬 Me pergunte sobre: 'HTML | CSS | JavaScript | Angular | Java | Spring Framework'
-- 📫 Como entrar em contato comigo: [@nayalves.dev](https://instagram.com/nayalves.dev?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D)
+- 📫 Como entrar em contato comigo: [@nayrlenalves](https://www.linkedin.com/in/nayrlen-alves-77923a228) | [@nayalves.dev](https://instagram.com/nayalves.dev?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D) 
 
 ## 🤝 Follow my work on
 
