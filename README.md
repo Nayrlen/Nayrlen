@@ -33,11 +33,11 @@
 
 [comment]: <> (Here i use the vercel api, change the references in the url bellow)
 
-<a href="https://github.com/brunomarcosluz/Jornada-Ninja-Web">
+<a href="https://nayrlen.github.io/projeto-android/index.html">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=Jornada-Ninja-Web&title_color=08fc28&text_color=08fc28&icon_color=08fc28&bg_color=000000"/>
 </a>
 
-<a href="https://github.com/brunomarcosluz/flutter-master-dev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=flutter-master-dev&title_color=08fc28&text_color=08fc28&icon_color=08fc28&bg_color=000000"
+<a href="https://nayrlen.github.io/projeto-login/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=flutter-master-dev&title_color=08fc28&text_color=08fc28&icon_color=08fc28&bg_color=000000"/>
 </a>
  
