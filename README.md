@@ -8,10 +8,10 @@
 
 ### Desenvolvedora Web | Entusiasta de Tecnologia | Marvete nas horas vagas 
 
-- 🧐 I’m currently working on [you work](https://brunomarcosluz.github.io./)
-- 🌱 I’m currently specializing in 'Your Area'.
-- 💬 Ask me about: 'You specializations'
-- 📫 How to reach me: [@pasteyourmediahere](https://twitter.com/brunomarcosluz)
+- 🧐 Estou "Open to work"
+- 🌱 Estou me especializando em 'Desenvolvimento Web Fullstack'.
+- 💬 Me pergunte sobre: 'HTML | CSS | JavaScript | Angular | Java | Spring Framework'
+- 📫 Como entrar em contato comigo: [@nayalves.dev](https://instagram.com/nayalves.dev?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D)
 
 ## 🤝 Follow my work on
 
