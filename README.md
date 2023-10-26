@@ -33,15 +33,3 @@
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nayrlen&layout=compact&bg_color=000000&border_color=000&title_color=D4D7DC&text_color=D4D7DC)
 
-## 👨‍🎨 Explore alguns dos meus repositórios, divirta-se!
-
-[comment]: <> (Here i use the vercel api, change the references in the url bellow)
-
-<a href="https://nayrlen.github.io/projeto-android/index.html">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nayrlen&repo=projeto-android&title_color=#D4D7DC&text_color=#D4D7DC&icon_color=#D4D7DC&bg_color=000000"/>
-</a>
-
-<a href="https://nayrlen.github.io/projeto-login/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nayrlen&repo=projeto-login&title_color=#D4D7DC&text_color=#D4D7DC&icon_color=#D4D7DC&bg_color=000000"/>
-</a>
- 
